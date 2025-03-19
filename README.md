@@ -13,29 +13,31 @@ I'm a passionate **Full-stack Developer** with over 3 years of experience buildi
 ## 🛠 Skills
 
 ### Front-end
-- **Flutter**: Clean Architecture, Bloc, GetX, Provider, Firebase, Google Maps, Ads (Android/iOS)
-- **React**: Next.js, Tailwind CSS, MUI, Redux, Bootstrap, SEO, HTML/CSS
-- **Vue.js**: Intermediate proficiency
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ### Back-end
-- **Node.js**: Nest.js, Socket.IO, API development, Authentication, Data Crawling
-- **Java**: Basic API creation, Roles, Authentication, Tokens
-- **Ruby on Rails**: Experience with API and UI integration
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
 
 ### Database
-- MySQL, MongoDB, PostgreSQL, SQL Server
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 ### Others
-- **UI/UX Design**: Figma
-- **DevOps**: CI/CD, Docker, Server Deployment, Nginx
-- **Soft Skills**: Teamwork, Creativity, Problem-solving
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
-
-## 📬 Let's Connect!
-Feel free to reach out for collaboration, projects, or just to chat about tech!  
-- [Behance](https://www.behance.net/vitanhbi4)  
-- [GitHub](https://github.com/vietanhyoyo)  
-- Email: [vanhyoyo@gmail.com](mailto:vanhyoyo@gmail.com)
 
 Thanks for visiting my profile! 🚀
