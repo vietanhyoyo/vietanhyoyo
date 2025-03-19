@@ -5,8 +5,6 @@ I'm a passionate **Full-stack Developer** with over 3 years of experience buildi
 🌟 **Currently**: Front-end Developer (March 2024 - Present)  
 📍 **Location**: Vietnam  
 📧 **Email**: [vanhyoyo@gmail.com](mailto:vanhyoyo@gmail.com)  
-📱 **Phone**: +84 358 485 077  
-🌐 **Portfolio**: [Behance](https://www.behance.net/vitanhbi4) | [GitHub](https://github.com/vietanhyoyo)
 
 ---
 
