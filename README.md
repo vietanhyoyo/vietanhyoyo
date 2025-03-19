@@ -28,8 +28,8 @@ I'm a passionate **Full-stack Developer** with over 3 years of experience buildi
 
 ### Mobile (Flutter)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Bloc](https://img.shields.io/badge/Bloc-FF6F61?style=flat&logo=flutter&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat&logo=flutter&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-FF6F61?style=flat&logo=dart&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
@@ -39,7 +39,7 @@ I'm a passionate **Full-stack Developer** with over 3 years of experience buildi
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-339120?style=flat&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ---
 
