@@ -1,5 +1,4 @@
-![Thiết kế chưa có tên (3)](https://github.com/user-attachments/assets/d5f05e9e-de83-4d5f-b491-4309f0cdf355)
-
+![Thiết kế chưa có tên (4)](https://github.com/user-attachments/assets/9a0ad558-1b8d-4a61-ab40-9a3a14daf154)
 
 # Hi, I'm Bùi Việt Anh 👋
 
