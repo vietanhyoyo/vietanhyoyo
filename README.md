@@ -2,13 +2,7 @@
 
 I'm a passionate **Full-stack Developer** with over 3 years of experience building mobile apps, websites, and innovative solutions. I specialize in front-end development, UI/UX design, and have solid back-end knowledge. I thrive in modern, collaborative environments where I can contribute my creativity and technical expertise.
 
-🌟 **Currently**: Front-end Developer (March 2024 - Present)  
-📍 **Location**: Vietnam  
-📧 **Email**: [vanhyoyo@gmail.com](mailto:vanhyoyo@gmail.com)  
-
 ---
-
-## 🛠 Skills
 
 ### Front-end
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
