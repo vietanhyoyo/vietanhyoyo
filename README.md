@@ -1,4 +1,4 @@
-![Hi, I'm Bùi Việt Anh (3)](https://github.com/user-attachments/assets/d40d84ff-5bff-4979-8e73-062cf98aff2f)
+![Hi, I'm Bùi Việt Anh (4)](https://github.com/user-attachments/assets/5c939e96-cdd0-44ba-af82-de8f1b8455d2)
 
 I'm a passionate **Full-stack Developer** with over 3 years of experience building mobile apps, websites, and innovative solutions. I specialize in front-end development, UI/UX design, and have solid back-end knowledge. I thrive in modern, collaborative environments where I can contribute my creativity and technical expertise.
 
